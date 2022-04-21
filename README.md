@@ -17,4 +17,3 @@ Here's a general description of each of the files:
 Main.py - Main files from which, data proccessing, initialzation of neural net, and training is called.
 NeuralNetwork.py - Code for the neural network and backpropogation.
 ProcessData.py - Code to normalized, flatten, and convert labels.
-
